@@ -1,0 +1,22 @@
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\lesson 11.exe.config
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\lesson 11.exe
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\lesson 11.pdb
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\FireSharp.dll
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\System.Net.Http.Extensions.dll
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\System.Net.Http.Primitives.dll
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\System.Net.Http.Extensions.xml
+D:\Visual Studio Projects\lesson 11\lesson 11\bin\Debug\System.Net.Http.Primitives.xml
+D:\Visual Studio Projects\lesson 11\lesson 11\obj\Debug\lesson 11.csproj.App.config
+D:\Visual Studio Projects\lesson 11\lesson 11\obj\Debug\lesson 11.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\lesson 11\lesson 11\obj\Debug\lesson 11.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\lesson 11\lesson 11\obj\Debug\lesson 11.csproj.CopyComplete
+D:\Visual Studio Projects\lesson 11\lesson 11\obj\Debug\lesson 11.exe
+D:\Visual Studio Projects\lesson 11\lesson 11\obj\Debug\lesson 11.pdb
